@@ -1,4 +1,7 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=JJeongwonniing's%20GitHub&fontSize=70&animation=scaleIn)
+
+<p align="center"> 안녕하세요 👋 Hi there 👋 哈喽</p>
+
 
 <!--
 **MinJeongwon/MinJeongwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
