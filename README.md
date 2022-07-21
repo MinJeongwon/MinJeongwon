@@ -1,15 +1,13 @@
 <div align="center"> 
-<img src="https://github.com/MinJeongwon/MinJeongwon/blob/main/profile.png" width="250" height="250">   
-<br>  
+  <img src="https://github.com/MinJeongwon/MinJeongwon/blob/main/profile.png" width="250" height="220">   
 
-<div style='font-size:20px;'>
-  안녕하세요 👋 Hi, I'm Jeongwon 👋 哈喽！我是贞媛 
-</div>   
+  <br>  
 
-<br>
-
-
-
+  <div style='font-size:20px;'>
+    👋 안녕하세요 👋 <br>     
+    👋 Hi, I'm Jeongwon 👋 <br>   
+    👋 哈喽！我是贞媛 👋     
+  </div>   
 
 </div>
 
